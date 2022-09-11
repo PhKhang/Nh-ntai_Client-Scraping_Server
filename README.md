@@ -6,6 +6,7 @@ But the most importain one is the `testingapi.py`. It uses Selenium and Undetect
 Although I forked this repo from Nhentai_net(`nhentai_net.py`), their code sadly didn't work so I have to rewrote most of the program and turned it into a Flask server. It was fucking pain to figure out all the problems I encountered and I still didn't understand how did I manage to bypass Cross-origin Block when parsing those images. But hey, it kinda works.
 
 Also, now you can open this kind of site in public without getting on a sex offender list. Yippee...
+
 (The images wasn't edited, they are blured by design and you can unblur them with the side button)
 ![image](https://user-images.githubusercontent.com/84757707/189525518-9cd48fd0-6f4a-489b-99fc-0d7dc4c844aa.png)
 
